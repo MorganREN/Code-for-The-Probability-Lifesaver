@@ -3,4 +3,5 @@
 - 同时本库也用来记录笔者本人在拜读此书时的心得与感悟<del>（记录废话）</del>。
 - 本库按照**概率论读本**中的章节进行目录的划分，以便更好找到代码所属的部分
 ## 注意⚠️：
-由于本人实力有限，代码部分难免会有纰漏，请多包涵![Thanks](https://www.qqlqq.com/userfiles/images/cidian/img/x/304604.jpg)
+由于本人实力有限，代码部分难免会有纰漏，请多包涵!!!  
+![Thanks](https://www.qqlqq.com/userfiles/images/cidian/img/x/304604.jpg)
