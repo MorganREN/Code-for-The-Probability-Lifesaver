@@ -36,7 +36,6 @@ def main():
     for i in range(int(total)):
         room = create_birth(n)
         if find_share(room):
-            print(share)
             share += 1.0
         else:
             continue
